@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ClementAsbert
-- 👀 I’m interested in programming mobile application
-- 🌱 I’m currently learning L3 Informatique
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming mobile and WEB application
+- 🌱 I’m currently in my 3rd year of engineering school.
 
 <!---
 ClementAsbert/ClementAsbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
